@@ -13,4 +13,4 @@ pip install autollm gradio python-dotenv
 ```
 
 ## API key
-You must create a .env file with your OpenAI api key stored as a 'OPENAI_API_KEY' variable
+You must create a `.env` file with your OpenAI api key stored as a 'OPENAI_API_KEY' variable
