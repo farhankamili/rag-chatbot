@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 Alternatively, you can install them one by one using 
 ```
-pip install autollm gradio python-dotenv
+pip install autollm bs4 gradio python-dotenv
 ```
 
 ## API key
